@@ -35,7 +35,6 @@
 					<h5>修改上传头像</h5>
 					<input type="file" class="file" name="file"
 						value="${user.logo}">
-					</p>
 					<input type="submit" id="photo"
 						onclick="if (confirm('您已经修改信息成功!')) return true; else return false;"
 						value="确认修改">
