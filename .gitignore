@@ -1,4 +1,5 @@
 .settings/
-.idea/
+ WebRoot/WEB-INF/classes/
 .project/
+.idea/
 psOline.iml
