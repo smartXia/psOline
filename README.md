@@ -1,5 +1,5 @@
 # psOline
-# tomcat中server在host之间添加：
+# tomcat中server.xml在host之间添加：
 ```
 <Context docBase="D:\File2\images"  path="/images" reloadable="false"/>
 ```
